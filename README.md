@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Group 2](https://user-images.githubusercontent.com/97198969/235376303-8c54fc52-ccb5-4395-a311-57ef2a0665c2.png)
+
+
 <!--
 **naomiuziel/naomiuziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
