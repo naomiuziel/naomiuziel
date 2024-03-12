@@ -2,7 +2,7 @@
 
 # Hi, my name's Naomi!
 
-I'm an aspiring junior software engineer with a passion for creating intuitive and user-friendly web applications using ReactJS. Currently honing my skills through coursework and personal projects, I'm eager to gain real-world experience and contribute to meaningful projects. I enjoy collaborating with others and am always looking to learn new technologies and methodologies. Let's connect and create something great together!
+I'm a junior software engineer with a passion for creating intuitive and user-friendly web applications using ReactJS. I enjoy collaborating with others and am always looking to learn new technologies and methodologies.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/naomi-uziel-06626396/)
 
