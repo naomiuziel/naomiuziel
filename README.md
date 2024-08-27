@@ -2,7 +2,7 @@
 
 # Hi, my name's Naomi!
 
-I'm a junior software engineer with a passion for creating intuitive and user-friendly web applications using Laravel and ReactJS. I enjoy collaborating with others and am always looking to learn new technologies and methodologies.
+I'm a software engineer with a passion for creating intuitive and user-friendly web applications using Laravel and ReactJS. I enjoy collaborating with others and am always looking to learn new technologies and methodologies.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/naomi-uziel-06626396/)
 
